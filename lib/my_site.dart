@@ -1,5 +1,9 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:portfolio_website/core/configs/connection/bloc/connected_bloc.dart';
+import 'package:portfolio_website/core/configs/connection/network_check.dart';
+import 'package:portfolio_website/core/providers/drawer_provider.dart';
+import 'package:portfolio_website/core/providers/scroll_provider.dart';
 import 'package:portfolio_website/core/theme/app_theme.dart';
 import 'package:portfolio_website/core/theme/cubit/theme_cubit.dart';
 import 'package:provider/provider.dart';
