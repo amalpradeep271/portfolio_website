@@ -50,7 +50,7 @@ class ContactDesktop extends StatelessWidget {
                           contactHeadding,
                           style: TextStyle(
                             height: 1.2,
-                            fontSize: 8.sp,
+                            fontSize: 15.sp,
                             fontWeight: FontWeight.w600,
                           ),
                         ),

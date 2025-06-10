@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:sizer/sizer.dart';
 // import 'package:mysite/core/configs/configs.dart';
 
 class AppText {
@@ -28,7 +29,7 @@ class AppText {
     // const b = FontWeight.bold;
     const baseStyle = TextStyle(fontFamily: 'Poppins');
 
-    h1 = baseStyle.copyWith(fontSize: 22);
+    h1 = baseStyle.copyWith(fontSize: 22.sp);
     h1b = h1!.copyWith(fontWeight: FontWeight.w600);
 
     h2 = baseStyle.copyWith(fontWeight: FontWeight.w400);

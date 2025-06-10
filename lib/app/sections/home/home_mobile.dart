@@ -28,7 +28,9 @@ class HomeMobile extends StatelessWidget {
             children: [
               Text(
                 hellotag,
-                style: AppText.h3!.copyWith(fontSize: isFontSize(context, 16)),
+                style: AppText.h3!.copyWith(
+                  fontSize: isFontSize(context, 16.sp),
+                ),
               ),
               // Space.x!,
               Image.asset(StaticImage.hi, height: 10.sp),
@@ -38,7 +40,7 @@ class HomeMobile extends StatelessWidget {
           Text(
             yourname,
             style: TextStyle(
-              fontSize: isFontSize(context, 28),
+              fontSize: isFontSize(context, 28.sp),
               fontWeight: FontWeight.w600,
             ),
           ),
@@ -49,7 +51,7 @@ class HomeMobile extends StatelessWidget {
               Text(
                 "A ",
                 style: TextStyle(
-                  fontSize: isFontSize(context, 18),
+                  fontSize: isFontSize(context, 18.sp),
                   fontWeight: FontWeight.w400,
                 ),
               ),

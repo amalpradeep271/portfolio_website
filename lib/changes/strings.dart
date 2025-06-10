@@ -3,9 +3,9 @@ String hellotag = '''Hi there, Welcome to My Space  ''';
 String yourname = "I'm Amal Pradeep";
 // String hometitle2 = "A Mobile Application\nDeveloper";
 
-String animationtxt1 = " Mobile Application Developer";
-String animationtxt2 = " UI/UX Designer";
-String animationtxt3 = " Web Developer";
+String animationtxt1 = "Flutter Developer";
+// String animationtxt2 = " UI/UX Designer";
+// String animationtxt3 = " Web Developer";
 
 //
 String contactHeadding = "Let’s try my service now!";
@@ -13,16 +13,15 @@ String contactSubHeadding =
     "Let’s work together and make everything super cute and super useful.";
 //
 String miniDescription =
-    "Freelancer providing services for programming and design content needs. Join me down below and let's get started!";
+    "Specializing in mobile application development using Flutter. Let's build high-quality cross-platform apps together!";
 
 String servicesSubHeading =
-    "Since the beginning of my journey as a freelance designer and developer, I've worked in startups and collaborated with talented people to create digital products for both business and consumer use. I offer a wide range of services, including brand design, programming and teaching.";
+    "Since the beginning of my journey as a developer, I've worked with startups and collaborated with talented teams to build digital products. I specialize in creating cross-platform applications for Android, iOS, and the web using Flutter. My services include end-to-end app development, UI/UX implementation, and deploying scalable solutions for both businesses and consumers.";
 //
 
 String protfolioSubHeading =
-    "Since the beginning of my journey as a designer and developer, I have created digital products for business and consumer use. This is a little bit.";
-const String aboutMeHeadline =
-    'I\'m Sudesh Bandara, a Mobile App developer, Web developer and UI designer.';
+    "Since the beginning of my journey as a developer, I have created digital products for business and consumer use. This is a little bit.";
+const String aboutMeHeadline = 'I\'m Amal Pradeep, a Mobile App developer';
 
 const String aboutMeDetail =
-    'I\'m a Fresh Graduate as Software Engineer from Quanrt University, UK. I have been developing mobile apps for over 4 years now. I have worked in teams for various startups and helped them in launching their prototypes and got valuable learning experience. Been a CEO/Co-Founder of Onyxsio, Sri Lanka. Currently working as an Associate Software Engineer at Onyxsio.';
+    'I\'m a Flutter developer with over 2 years of experience building cross-platform applications. I have worked in teams and contributed to launching several prototypes, gaining valuable hands-on experience along the way. Currently, I\'m working as a Flutter Developer Team Lead at Imit Park Ltd., Irinjalakuda.';
