@@ -15,35 +15,39 @@ class ProjectUtils {
 
 List<ProjectUtils> projectUtils = [
   ProjectUtils(
-    banners: 'assets/images/sam1.png',
+    banners: 'assets/images/khadi.jpg',
     icons: 'assets/images/flutter.png',
     titles: 'Irinjalakuda Khadi',
     description:
-        'This is a just Fully functional Social media App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/poetically-.git',
+        'This is a Fully functional E-Commerce App by using flutter,Beta Link available, check below.',
+    links:
+        'https://drive.google.com/file/d/1Ywoavnjv_1TSrE0XRJU5PKsl53WYnzsj/view?usp=drive_link',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/1.png',
+    banners: 'assets/images/ibiye.jpg',
     icons: 'assets/images/flutter.png',
-    titles: 'Awesome CRM UI',
+    titles: 'Ibiye App',
     description:
-        'This is a just CRM UI Design using Figma, file is also available, check below.',
-    links: 'https://github.com/sudeshnb/',
+        'This is a just Fully functional Ibiye Ecommerce App by using flutter,available on play store, check below.',
+
+    links: 'https://play.google.com/store/apps/details?id=com.ibiye.project',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/03.png',
+    banners: 'assets/images/navasankalp.png',
     icons: 'assets/images/flutter.png',
-    titles: 'Exercise App',
+    titles: 'Navasankalp',
     description:
-        'This is a just Fully function Exercise App by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/elderly_exercise_app.git',
+        'This is a Fully function E-Organization App by using flutter,Beta Link available, check below.',
+    links:
+        'https://drive.google.com/file/d/1oJ8GhfgSoEeGytoVtsw2WZPmVNoorjFt/view?usp=sharing',
   ),
   ProjectUtils(
-    banners: 'assets/imgs/04.png',
+    banners: 'assets/images/redcross.jpg',
     icons: 'assets/images/flutter.png',
-    titles: 'Awesome Plant App UI',
+    titles: 'Red Cross App',
     description:
-        'This is a just Plant App UI by using flutter, source code is also available, check below.',
-    links: 'https://github.com/sudeshnb/flutter_plant_app.git',
+        'This is a Fully function E-Organization App by using flutter,Beta Link available, check below.',
+    links:
+        'https://drive.google.com/file/d/1J0qi4G4xgWAmnizcnPipuGMhMJYcNlyW/view?usp=sharing',
   ),
 ];

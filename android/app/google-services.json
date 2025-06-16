@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "1050419105502",
+    "project_id": "nava-sankalp",
+    "storage_bucket": "nava-sankalp.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050419105502:android:0a3bb03c12a4651f463c4f",
+        "android_client_info": {
+          "package_name": "com.example.nava_sankalp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050419105502-11drvr2i9ro3hbt45snu7h7spph3hj9c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.nava_sankalp",
+            "certificate_hash": "70be26533a22c3532206d200d46d3d16e62ef998"
+          }
+        },
+        {
+          "client_id": "1050419105502-bur9d3umobb4pdub7ugr23k2l21kgu8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoHd7py_DrOwQjStR_-r_xoIzkOHiqGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050419105502-bur9d3umobb4pdub7ugr23k2l21kgu8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050419105502-247ubbefr9b2ds79bshaqahfk75mqka5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.navaSankalp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1050419105502:android:fb8c9ea7b11f2729463c4f",
+        "android_client_info": {
+          "package_name": "com.example.portfolio_website"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1050419105502-bur9d3umobb4pdub7ugr23k2l21kgu8k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgoHd7py_DrOwQjStR_-r_xoIzkOHiqGU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1050419105502-bur9d3umobb4pdub7ugr23k2l21kgu8k.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1050419105502-247ubbefr9b2ds79bshaqahfk75mqka5.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.navaSankalp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
